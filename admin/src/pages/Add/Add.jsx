@@ -4,7 +4,7 @@ import { assets } from '../../assets/assets'
 import axios from "axios"
 
 const Add = () => { 
-    const url = 'https://family-food-app-backend.onrender.com/';
+    const url = 'https://family-food-app-backend.onrender.com';  
     const [image, setImage] = useState(false);
     const [data, setData] = useState({
         name: '',
@@ -27,7 +27,7 @@ const Add = () => {
         formData.append("description", data.description)
         formData.append("category", data.category)
         formData.append("image", image )
-        const response = await axios.post(`{ url }/api/food/add`, formData)
+        const response = await axios.post(`${url}/api/food/add`, formData)  
         if(response.data.success){
             setData({
                 name: '',
