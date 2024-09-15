@@ -3,8 +3,8 @@ import './Orders.css';
 import axios from "axios";
 import { assets } from '../../assets/assets';
 
-const Orders = ({ url }) => {
-
+const Orders = () => {
+  const url = "https://family-food-app-backend.onrender.com/";
   const [orders, setorders] = useState([]);
   const fetchAllOrders = async () => {
     const response = await axios.get(url + "/api/order/list");
