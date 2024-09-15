@@ -3,7 +3,7 @@ import './Add.css'
 import { assets } from '../../assets/assets'
 import axios from "axios"
 
-const Add = ({url}) => { 
+const Add = () => { 
     
     const [image, setImage] = useState(false);
     const [data, setData] = useState({
@@ -27,7 +27,7 @@ const Add = ({url}) => {
         formData.append("description", data.description)
         formData.append("category", data.category)
         formData.append("image", image )
-        const response = await axios.post(`${url}/api/food/add`, formData)
+        const response = await axios.post(`https://family-food-app-backend.onrender.com//api/food/add`, formData)
         if(response.data.success){
             setData({
                 name: '',
