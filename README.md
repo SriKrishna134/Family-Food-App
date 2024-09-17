@@ -3,7 +3,7 @@ It is a Family owned food app, created by Srikrishna Hireholi. It uses React JS,
 
 Welcome to my coding portfolio! This web application is developed using React.js with Sass for styling, highlighting my expertise, projects, and accomplishments in web development. Feel free to explore and see my work in  <a href="https://krishs-portfolio.vercel.app/" > action.</a>
 
-[Watch the video]([https://www.youtube.com/watch?v=example](https://utfs.io/f/mJvRnIkXEid5wVxNUe4pAomQBrFi0vc4ufM8NyzqhETIGSlR) 
+[Watch the video](https://utfs.io/f/mJvRnIkXEid5wVxNUe4pAomQBrFi0vc4ufM8NyzqhETIGSlR) 
 
 ## Table of Contents
 
