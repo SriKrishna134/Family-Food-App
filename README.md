@@ -54,11 +54,12 @@ To run this portfolio locally, follow these steps:
 
 
 ## Technologies Implemented
-React.js: A powerful JavaScript library utilized for building dynamic and responsive user interfaces.
-NodeJS: A JavaScript runtime that allows developers to run JavaScript on the server side.    
-MongoDB: It’s highly scalable and flexible, allowing for easy handling of large amounts of unstructured data.
-Express: A minimal and flexible Node.js web application framework.
-Stripe: A popular payment processing platform that allows developers to integrate secure online payment systems into applications.
+**React.js**: A powerful JavaScript library utilized for building dynamic and responsive user interfaces.
+
+**NodeJS**: A JavaScript runtime that allows developers to run JavaScript on the server side.    
+**MongoDB**: It’s highly scalable and flexible, allowing for easy handling of large amounts of unstructured data.
+**Express**: A minimal and flexible Node.js web application framework.
+**Stripe**: A popular payment processing platform that allows developers to integrate secure online payment systems into applications.
 
 
 
