@@ -19,13 +19,13 @@ Hireholi Foods provides a seamless and convenient way to order fresh, homemade m
 
 ## Features
 
-- **Responsive Design:** The portfolio is designed to be accessible and visually appealing across various devices and screen sizes.
+- **Home:** The App is designed to be accessible and visually appealing across various devices and screen sizes.
 
-- **Project Showcase:** I can display my  coding projects with detailed information, including technologies used, project descriptions, and live demo links.
+- **Menu:** I can display my  coding projects with detailed information, including technologies used, project descriptions, and live demo links.
 
-- **Skills Section:** A dedicated section to showcase my skills and proficiency in different programming languages, frameworks, and tools.
+- **Sign in:** A dedicated section to showcase my skills and proficiency in different programming languages, frameworks, and tools.
 
-- **Contact Form:** An interactive contact form allowing visitors to reach out to me directly.
+- **Contact** An interactive contact form allowing visitors to reach out to me directly.
 
 ## Installation
 
@@ -33,13 +33,25 @@ To run this portfolio locally, follow these steps:
 
 1. Clone the repository:
 
-2. Navigate to the project directory: `cd my_portfolio`
+2. Navigate to the project directory: `cd admin`
 
 3. Install dependencies: `npm install`
 
-4. Start the development server: `npm start`
+4. Start the development server: `npm run dev`
 
-5. Open your browser and visit [http://localhost:3000](http://localhost:3000)
+5. 2. Navigate to the project directory: `cd backend`
+
+6. Install dependencies: `npm install`
+
+7. Start the development server: `npm run server`
+   
+8. Navigate to the project directory: `cd frontend`
+
+9. Install dependencies: `npm install`
+
+10. Start the development server: `npm run dev`
+
+6. Open your browser and visit [http://localhost:3000](http://localhost:3000)
 
 ## Technologies Implemented
 React.js: A powerful JavaScript library utilized for building dynamic and responsive user interfaces.
