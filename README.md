@@ -1,8 +1,9 @@
-# Family-Food-App
+# Hireholi Foods
 It is a Family owned food app, created by Srikrishna Hireholi. It uses React JS, MongoDB, Express, Node JS &amp; Stripe, It is a Full Stack Project.
 
 Welcome to my coding portfolio! This web application is developed using React.js with Sass for styling, highlighting my expertise, projects, and accomplishments in web development. Feel free to explore and see my work in  <a href="https://krishs-portfolio.vercel.app/" > action.</a>
-
+<img width="1407" alt="image" 
+ src="https://utfs.io/f/mJvRnIkXEid5E4kCZnNDzjVSECFvRg0empHMdq1bZkXQ2Air">
 [Watch the video](https://utfs.io/f/mJvRnIkXEid5wVxNUe4pAomQBrFi0vc4ufM8NyzqhETIGSlR) 
 
 ## Table of Contents
@@ -14,7 +15,7 @@ Welcome to my coding portfolio! This web application is developed using React.js
 - [Project Structure](#project-structure)
 
 ## Introduction
-This portfolio serves as a personalized platform to showcase my technical expertise, share detailed projects, and narrate my coding journey. The application is designed to provide an interactive, user-friendly experience, allowing visitors to explore my work and easily connect with me.
+Hireholi Foods provides a seamless and convenient way to order fresh, homemade meals online. Our platform offers a wide selection of healthy, home-cooked dishes, ensuring both quality and nutrition with every order. Enjoy the comfort of wholesome food delivered right to your doorstep.
 
 ## Features
 
