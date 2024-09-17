@@ -12,7 +12,7 @@ It is a Family owned food app, created by Srikrishna Hireholi. It uses React JS,
 - [Features](#features)
 - [Installation](#installation)
 - [Technologies Implemented](#technologies-implemented)
-- [Project Structure](#project-structure)
+
 
 ## Introduction
 Hireholi Foods provides a seamless and convenient way to order fresh, homemade meals online. Our platform offers a wide selection of healthy, home-cooked dishes, ensuring both quality and nutrition with every order. Enjoy the comfort of wholesome food delivered right to your doorstep.
@@ -57,17 +57,14 @@ To run this portfolio locally, follow these steps:
 **React.js**: A powerful JavaScript library utilized for building dynamic and responsive user interfaces.
 
 **NodeJS**: A JavaScript runtime that allows developers to run JavaScript on the server side.    
+
 **MongoDB**: It’s highly scalable and flexible, allowing for easy handling of large amounts of unstructured data.
+
 **Express**: A minimal and flexible Node.js web application framework.
+
 **Stripe**: A popular payment processing platform that allows developers to integrate secure online payment systems into applications.
 
 
 
-## Project Structure
 
-The project structure follows a standard React application layout. Key directories include:
-
-- `src/components`: Contains React components used to build different sections of the portfolio.
-- `src/styles`: Sass files for styling the application.
-- `public`: Static assets and the `index.html` file.
 
