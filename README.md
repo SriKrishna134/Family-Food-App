@@ -4,7 +4,7 @@ It is a Family owned food app, created by Srikrishna Hireholi. It uses React JS,
 
 <img width="1407" alt="image" 
  src="https://utfs.io/f/mJvRnIkXEid5E4kCZnNDzjVSECFvRg0empHMdq1bZkXQ2Air">
-[Watch the video](https://utfs.io/f/mJvRnIkXEid5wVxNUe4pAomQBrFi0vc4ufM8NyzqhETIGSlR) 
+[Click here to watch the video of the App](https://utfs.io/f/mJvRnIkXEid5wVxNUe4pAomQBrFi0vc4ufM8NyzqhETIGSlR) 
 
 ## Table of Contents
 
@@ -21,9 +21,9 @@ Hireholi Foods provides a seamless and convenient way to order fresh, homemade m
 
 - **Home:** The App is designed to be accessible and visually appealing across various devices and screen sizes.
 
-- **Menu:** I can display my  coding projects with detailed information, including technologies used, project descriptions, and live demo links.
+- **Menu:** It displays while food items which is added on the admin panel side using backend and if the food item is deleted on the admin panel side it is not displayed here.
 
-- **Sign in:** A dedicated section to showcase my skills and proficiency in different programming languages, frameworks, and tools.
+- **Sign in:** The platform features dedicated Sign-In and Log-In pages that securely store user information, allowing for a seamless login experience without the need to re-enter credentials each time.
 
 - **Contact** An interactive contact form allowing visitors to reach out to me directly.
 
@@ -51,11 +51,11 @@ To run this portfolio locally, follow these steps:
 
 10. Start the development server: `npm run dev`
 
-6. Open your browser and visit [http://localhost:3000](http://localhost:3000)
+
 
 ## Technologies Implemented
 React.js: A powerful JavaScript library utilized for building dynamic and responsive user interfaces.
-Sass (Syntactically Awesome Style Sheets): A robust CSS preprocessor that extends CSS capabilities, allowing for efficient and maintainable styling in the application.
+NodeJS: A JavaScript runtime that allows developers to run JavaScript on the server side.    
 
 ## Project Structure
 
@@ -64,5 +64,4 @@ The project structure follows a standard React application layout. Key directori
 - `src/components`: Contains React components used to build different sections of the portfolio.
 - `src/styles`: Sass files for styling the application.
 - `public`: Static assets and the `index.html` file.
-  
- Thank you for visiting my coding portfolio. If you have any questions or feedback, please don't hesitate to get in touch.
+
