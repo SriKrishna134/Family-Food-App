@@ -4,7 +4,7 @@ import { assets } from '../../assets/assets'
 import axios from "axios"
 
 const Add = () => { 
-    const url = 'https://family-food-app-backend.onrender.com/';  
+    const url = 'https://family-food-app-backend.onrender.com';  
     const [image, setImage] = useState(false);
     const [data, setData] = useState({
         name: '',
