@@ -1,7 +1,7 @@
 # Hireholi Foods
 It is a Family owned food app, created by Srikrishna Hireholi. It uses React JS, MongoDB, Express, Node JS &amp; Stripe, It is a Full Stack Project.
 
-
+##Screenshot of frontend food menu page:
 <img width="1407" alt="image" 
  src="https://utfs.io/f/mJvRnIkXEid5E4kCZnNDzjVSECFvRg0empHMdq1bZkXQ2Air">
 [Click here to watch the video of the App](https://utfs.io/f/mJvRnIkXEid5wVxNUe4pAomQBrFi0vc4ufM8NyzqhETIGSlR) 
