@@ -6,7 +6,7 @@ It is a Family owned food app, created by Srikrishna Hireholi. It uses React JS,
  src="https://utfs.io/f/mJvRnIkXEid5E4kCZnNDzjVSECFvRg0empHMdq1bZkXQ2Air">
 [Click here to watch the video of the Web-App](https://utfs.io/f/mJvRnIkXEid5wVxNUe4pAomQBrFi0vc4ufM8NyzqhETIGSlR) 
 
-## Table of Contents
+## Table of Contents:
 
 - [Introduction](#introduction)
 - [Features](#features)
