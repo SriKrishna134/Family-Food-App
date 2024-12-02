@@ -14,10 +14,10 @@ It is a Family owned food app, created by Srikrishna Hireholi. It uses React JS,
 - [Technologies Implemented](#technologies-implemented)
 
 
-## Introduction
+## Introduction:
 Hireholi Foods provides a seamless and convenient way to order fresh, homemade meals online. Our platform offers a wide selection of healthy, home-cooked dishes, ensuring both quality and nutrition with every order. Enjoy the comfort of wholesome food delivered right to your doorstep.
 
-## Features
+## Features:
 
 - **Home:** The App is designed to be accessible and visually appealing across various devices and screen sizes.
 
