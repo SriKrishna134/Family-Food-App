@@ -53,7 +53,7 @@ To run this portfolio locally, follow these steps:
 
 
 
-## Technologies Implemented(MERN stack)
+## Technologies Implemented(MERN stack):
 **React.js**: A powerful JavaScript library utilized for building dynamic and responsive user interfaces.
 
 **NodeJS**: A JavaScript runtime that allows developers to run JavaScript on the server side.    
