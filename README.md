@@ -27,7 +27,7 @@ Hireholi Foods provides a seamless and convenient way to order fresh, homemade m
 
 - **Contact** An interactive contact form allowing visitors to reach out to me directly.
 
-## Installation
+## Installation:
 
 To run this portfolio locally, follow these steps:
 
