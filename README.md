@@ -66,7 +66,7 @@ To run this portfolio locally, follow these steps:
 
 **Stripe**: A popular payment processing platform that allows developers to integrate secure online payment systems into applications.
 
-Thank you for visiting...
+- Thank you for visiting...
 
 
 
