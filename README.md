@@ -16,7 +16,7 @@ It uses React JS, MongoDB, Express, Node JS &amp; Stripe, It is a Full Stack Pro
 
 
 ## Introduction:
-Hireholi Foods provides a seamless and convenient way to order fresh, homemade meals online. Our platform offers a wide selection of healthy, home-cooked dishes, ensuring both quality and nutrition with every order. Enjoy the comfort of wholesome food delivered right to your doorstep.
+- Hireholi Foods provides a seamless and convenient way to order fresh, homemade meals online. Our platform offers a wide selection of healthy, home-cooked dishes, ensuring both quality and nutrition with every order. Enjoy the comfort of wholesome food delivered right to your doorstep.
 
 
 ## Features:
