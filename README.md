@@ -4,7 +4,7 @@
 
 ## Screenshot of frontend food menu page:
 
-<img width="1407" alt="image" 
+ <img width="1407" alt="image" 
  src="https://utfs.io/f/mJvRnIkXEid5E4kCZnNDzjVSECFvRg0empHMdq1bZkXQ2Air">
 [Click here to watch the video of the Web-App](https://utfs.io/f/mJvRnIkXEid5wVxNUe4pAomQBrFi0vc4ufM8NyzqhETIGSlR) 
 
